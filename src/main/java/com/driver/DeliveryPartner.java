@@ -22,3 +22,6 @@ public class DeliveryPartner {
         this.numberOfOrders = numberOfOrders;
     }
 }
+
+// p = 0
+// p = 1
